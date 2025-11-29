@@ -12,7 +12,7 @@ I design and build scalable, secure platforms with a focus on **authentication f
 |---------------------|-------------------------------------------------------------------------------------|
 | Backend             | Spring Boot, Spring Security, Hibernate, Flyway                                    |
 | Frontend            | React, Vite, Chakra UI, Context API                                                |
-| Payments            | Stripe API, Webhooks                                                               |
+| Payments            | M-PESA Stripe API, Webhooks                                                               |
 | DevOps & Containers | Docker, Docker Compose, Railway, Linux permissions hygiene                         |
 | Database            | MySQL, Schema evolution with Flyway                                                |
 | Workflow            | GitHub Actions, CI/CD, Documentation polish                                        |
