@@ -1,10 +1,7 @@
-# 👋 Hi, I’m CHERUIYOT NGETICH
+👋 Hi, I’m CHERUIYOT NGETICH
 
-### 🚀 Backend & Frontend Architect | Secure E‑Commerce Builder  
-
-I design and build scalable, secure platforms with a focus on **authentication flows, payment integration, and polished UI/UX**. My work bridges backend robustness with frontend elegance, ensuring seamless user experiences and developer‑friendly workflows.  
-
----
+🚀 Full‑Stack & AI Engineer | Secure Systems Builder
+I design and build scalable, secure platforms with a focus on authentication flows, payment integration, and polished UI/UX. Recently, I’ve expanded into AI‑powered applications, creating chatbots, review summarizers, and experimenting with open‑source models (Hugging Face, Ollama) alongside proprietary APIs (OpenAI). My work bridges backend robustness with frontend elegance, ensuring seamless user experiences and developer‑friendly workflows
 
 ## 🛠 Tech Toolbox  
 
@@ -16,6 +13,7 @@ I design and build scalable, secure platforms with a focus on **authentication f
 | DevOps & Containers | Docker, Docker Compose, Railway, Linux permissions hygiene                         |
 | Database            | MySQL, Schema evolution with Flyway                                                |
 | Workflow            | GitHub Actions, CI/CD, Documentation polish                                        |
+| AI & LLMs	          |  OpenAI API, Hugging Face Transformers, Ollama, Prompt Engineering, Fine‑Tuning    |
 
 
 ## 🌐 About My Languages & Frameworks
@@ -24,7 +22,8 @@ I design and build scalable, secure platforms with a focus on **authentication f
 - **JavaScript / TypeScript** – Modular React apps with context-driven state management and polished UI/UX.  
 - **SQL (MySQL)** – Schema design, migrations, and query optimization for scalable e‑commerce data models.  
 - **HTML & CSS** – Responsive layouts and pixel‑perfect frontend presentation.  
-- **Shell / Bash** – Automating Docker workflows, environment setup, and deployment scripts.  
+- **Shell / Bash** – Automating Docker workflows, environment setup, and deployment scripts.
+- AI/ML – Building chatbots, review summarizers, and experimenting with fine‑tuning open‑source LLMs.
 
 ### 🔖 Language & Framework Badges
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()  
@@ -40,18 +39,23 @@ I design and build scalable, secure platforms with a focus on **authentication f
 
 ---
 
-## 📦 Current Focus  
-- 🔐 Clean, reproducible Docker workflows (dev vs prod separation)  
-- 🛒 Scaffolding product, cart, and category migrations for full e‑commerce flow  
-- ⚙️ Dynamic config injection for React/Vite containers  
-- 📊 Admin analytics for product trends and margins  
+🔐 Clean, reproducible Docker workflows (dev vs prod separation)
+
+🛒 Scaffolding product, cart, and category migrations for full e‑commerce flow
+
+⚙️ Dynamic config injection for React/Vite containers
+
+🤖 Building AI‑powered apps (chatbots, review summarizers) with OpenAI, Hugging Face, and Ollama
+
+📊 Admin analytics for product trends and margin
 
 ---
 
 ## 🌱 Recent Projects  
 - **FluxMart API** – Secure backend service with JWT auth, product/order handling, and Stripe checkout  and M-PESA Integrations 
 - **FluxMart Frontend** – Responsive React app with category filtering, premium checkout UX, and dynamic config injection  
-
+- **AI Chatbot – Conversational assistant leveraging OpenAI and Hugging Face models, deployed locally with Ollama.
+- **Review Summarizer – AI tool to condense product reviews into actionable insights using OpenAI and open‑source LLMs.
 ---
 
 ## 📊 GitHub Stats  
