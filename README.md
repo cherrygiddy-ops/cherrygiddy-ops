@@ -57,19 +57,19 @@ I design and build scalable, secure platforms with a focus on authentication flo
 - **AI Chatbot – Conversational assistant leveraging OpenAI and Hugging Face models, deployed locally with Ollama.
 - **Review Summarizer – AI tool to condense product reviews into actionable insights using OpenAI and open‑source LLMs.
 ---
-
 ## 📊 GitHub Stats  
 
-![Cherry GitHub stats](https://github-readme-stats.vercel.app/api?cherrygiddy-ops=cherrygiddy-ops&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?cherrygiddy-ops=cherrygiddy-ops&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
+![Cherry GitHub stats](https://github-readme-stats.vercel.app/api?username=cherrygiddy-ops&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cherrygiddy-ops&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cherrygiddy-ops&theme=radical)  
 
 ---
 
 ## 📫 Let’s Connect  
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cherrygiddy-ops)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherry-gidd-8401081a4/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheruiyot-ngetich)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morrischerryg@gmail.com)  
+
 
 ---
