@@ -8,7 +8,7 @@ I design and build scalable, secure platforms with a focus on authentication flo
 | Domain              | Tools & Frameworks                                                                 |
 |---------------------|-------------------------------------------------------------------------------------|
 | Backend             | Spring Boot, Spring Security, Hibernate, Flyway                                    |
-| Frontend            | React, Vite, Chakra UI, Context API                                                |
+| Frontend            | Flutter,React, Vite, Chakra UI, Context API                                                |
 | Payments            | M-PESA ,Stripe API, Webhooks                                                               |
 | DevOps & Containers | Docker, Docker Compose, Railway, Linux permissions hygiene                         |
 | Database            | MySQL, Schema evolution with Flyway                                                |
