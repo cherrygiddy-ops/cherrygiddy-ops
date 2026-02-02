@@ -1,19 +1,25 @@
 👋 Hi, I’m CHERUIYOT NGETICH
 
-🚀 Full‑Stack & AI Engineer | Secure Systems Builder
-I design and build scalable, secure platforms with a focus on authentication flows, payment integration, and polished UI/UX. Recently, I’ve expanded into AI‑powered applications, creating chatbots, review summarizers, and experimenting with open‑source models (Hugging Face, Ollama) alongside proprietary APIs (OpenAI). My work bridges backend robustness with frontend elegance, ensuring seamless user experiences and developer‑friendly workflows
+🚀 Versatile software engineer with 4+ years of experience delivering enterprise-grade solutions across diverse
+technology stacks. Skilled in Java, Spring Boot, Go, Python, Node.js, and modern frontends (React,
+Angular, Vue), with hands-on exposure to Elasticsearch, Lucene, and Microsoft Power Platform.
+Experienced in building scalable APIs, microservices, and cloud-native applications on Azure and AWS, with
+a strong focus on performance, reliability, and customer value. Thrives in agile teams, making technical
+decisions that balance innovation with maintainability
 
 ## 🛠 Tech Toolbox  
 
 | Domain              | Tools & Frameworks                                                                 |
 |---------------------|-------------------------------------------------------------------------------------|
-| Backend             | Spring Boot, Spring Security, Hibernate, Flyway                                    |
-| Frontend            | Flutter,React, Vite, Chakra UI, Context API                                                |
+| Backend             | Java, Spring Boot, Go, Node.js, Python (Django/Flask)                                 |
+| Frontend            | React, Angular, Vue.js,Flutter                                              |
 | Payments            | M-PESA ,Stripe API, Webhooks                                                               |
 | DevOps & Containers | Docker, Docker Compose, Railway, Linux permissions hygiene                         |
 | Database            | MySQL, Schema evolution with Flyway                                                |
-| Workflow            | GitHub Actions, CI/CD, Documentation polish                                        |
-| AI & LLMs	          |  OpenAI API, Hugging Face Transformers, Ollama, Prompt Engineering, Fine‑Tuning    |
+| cloud and devops    | Azure, AWS, Docker, Kubernetes, CI/CD (GitLab, GitHub Actions, Jenkins)                                |
+| AI & LLMs	          |  OpenAI API, Hugging Face Transformers, Ollama, Prompt Engineering, Fine‑Tuning 
+Search & Data Systems | Elasticsearch, Apache Lucene, PostgreSQL, MongoDB
+Microsoft Ecosystem   | Power Apps, Power Automate, SharePoint, Microsoft 365 troubleshooting
 
 
 ## 🌐 About My Languages & Frameworks
