@@ -1,81 +1,47 @@
-👋 Hi, I’m CHERUIYOT NGETICH
+# 👋 Hi, I'm Cheruiyot Ngetich
 
-🚀 Versatile software engineer with 4+ years of experience delivering enterprise-grade solutions across diverse
-technology stacks. Skilled in Java, Spring Boot, Go, Python, Node.js, and modern frontends (React,
-Angular, Vue), with hands-on exposure to Elasticsearch, Lucene, and Microsoft Power Platform.
-Experienced in building scalable APIs, microservices, and cloud-native applications on Azure and AWS, with
-a strong focus on performance, reliability, and customer value. Thrives in agile teams, making technical
-decisions that balance innovation with maintainability
-
-## 🛠 Tech Toolbox  
-
-| Domain              | Tools & Frameworks                                                                 |
-|---------------------|-------------------------------------------------------------------------------------|
-| Backend             | Java, Spring Boot, Go, Node.js, Python (Django/Flask)                                 |
-| Frontend            | React, Angular, Vue.js,Flutter                                              |
-| Payments            | M-PESA ,Stripe API, Webhooks                                                               |
-| DevOps & Containers | Docker, Docker Compose, Railway, Linux permissions hygiene                         |
-| Database            | MySQL, Schema evolution with Flyway                                                |
-| cloud and devops    | Azure, AWS, Docker, Kubernetes, CI/CD (GitLab, GitHub Actions, Jenkins)                                |
-| AI & LLMs	          |  OpenAI API, Hugging Face Transformers, Ollama, Prompt Engineering, Fine‑Tuning 
-Search & Data Systems | Elasticsearch, Apache Lucene, PostgreSQL, MongoDB
-Microsoft Ecosystem   | Power Apps, Power Automate, SharePoint, Microsoft 365 troubleshooting
-
-
-## 🌐 About My Languages & Frameworks
-
-- **Java** – Backend services with Spring Boot, authentication flows, and Flyway migrations.  
-- **JavaScript / TypeScript** – Modular React apps with context-driven state management and polished UI/UX.  
-- **SQL (MySQL)** – Schema design, migrations, and query optimization for scalable e‑commerce data models.  
-- **HTML & CSS** – Responsive layouts and pixel‑perfect frontend presentation.  
-- **Shell / Bash** – Automating Docker workflows, environment setup, and deployment scripts.
-- AI/ML – Building chatbots, review summarizers, and experimenting with fine‑tuning open‑source LLMs.
-
-### 🔖 Language & Framework Badges
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()  
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)]()  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()  
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()  
-[![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)]()  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()  
-[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)]()  
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()  
+## 🚀 About Me
+I'm a versatile **Software Engineer** with 4+ years of experience building scalable, secure, and user‑friendly applications.  
+My expertise spans **full‑stack development, cloud deployments, API integrations, and search systems**.  
+I thrive in agile teams and enjoy solving complex engineering challenges at scale.
 
 ---
 
-🔐 Clean, reproducible Docker workflows (dev vs prod separation)
-
-🛒 Scaffolding product, cart, and category migrations for full e‑commerce flow
-
-⚙️ Dynamic config injection for React/Vite containers
-
-🤖 Building AI‑powered apps (chatbots, review summarizers) with OpenAI, Hugging Face, and Ollama
-
-📊 Admin analytics for product trends and margin
-
----
-
-## 🌱 Recent Projects  
-- **FluxMart API** – Secure backend service with JWT auth, product/order handling, and Stripe checkout  and M-PESA Integrations 
-- **FluxMart Frontend** – Responsive React app with category filtering, premium checkout UX, and dynamic config injection  
-- **AI Chatbot – Conversational assistant leveraging OpenAI and Hugging Face models, deployed locally with Ollama.
-- **Review Summarizer – AI tool to condense product reviews into actionable insights using OpenAI and open‑source LLMs.
----
-## 📊 GitHub Stats  
-
-![Cherry GitHub stats](https://github-readme-stats.vercel.app/api?username=cherrygiddy-ops&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cherrygiddy-ops&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cherrygiddy-ops&theme=radical)  
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Flutter, TypeScript, Angular, Vue, Chakra UI, Tailwind  
+- **Backend:** Java (Spring Boot), Go, Node.js, Python (Django/Flask)  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Search & Data:** Elasticsearch, Apache Lucene  
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Azure, DigitalOcean, Kubernetes, Docker, GitHub Actions, Jenkins  
+- **Microsoft Ecosystem:** Power Apps, Power Automate, SharePoint, Microsoft 365  
+- **Data Visualization:** Chart.js, Recharts, D3.js  
+- **Testing & QA:** JUnit, Mockito, Cypress, React Testing Library  
 
 ---
 
-## 📫 Let’s Connect  
+## 📌 Featured Projects
+- **FluxMart (E‑commerce Platform)**  
+  Full‑stack app with secure payments (Stripe/M‑Pesa), scalable backend, and responsive frontend.  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cherrygiddy-ops)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheruiyot-ngetich)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morrischerryg@gmail.com)  
+- **GameGlint (Game Discovery App)**  
+  Search‑driven platform using **Elasticsearch** for fast indexing and retrieval.  
 
+- **AI Chatbot & Review Summarizer**  
+  NLP‑powered assistant built with **OpenAI API + Hugging Face**, automating workflows and insights.  
 
 ---
+
+## 🌱 Current Focus
+- Expanding expertise in **Cloud Engineering & DevOps**  
+- Exploring **LLM integrations** for intelligent automation  
+- Pursuing certifications: AWS Developer, Docker, Power Platform Fundamentals, Elasticsearch Engineer  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [linkedin.com/in/cheruiyot-ngetich](https://linkedin.com/in/cheruiyot-ngetich)  
+- GitHub: [github.com/cherrygiddy-ops](https://github.com/cherrygiddy-ops)  
+- Email: morrischerryg@gmail.com  
+
+---
+⭐️ From [Cheruiyot Ngetich](https://github.com/cherrygiddy-ops)
